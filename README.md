@@ -12,15 +12,22 @@
 
 - ⚡️ Next.js 13
 - ⚛️ React 18
+- 🌬️ Tailwind
 - 📏 ESLint — To find and fix problems in your code
-- 💖 Prettier — Code Formatter for consistent style
+- 🌟 Prettier — Code Formatter for consistent style
 - 🎌 i18next - Multi-language support
 - 🐶 Husky — For running scripts before committing
-- 🚓 Commitlint — To make sure your commit messages follow the convention
-- 🚫 lint-staged — Run ESLint and Prettier against staged Git files
+- 🏴󠁭󠁨󠁬󠁿 Commitlint — To make sure your commit messages follow the convention
+- 🚦 lint-staged — Run ESLint and Prettier against staged Git files
 - ⚙️ EditorConfig - Consistent coding styles across editors and IDEs
 
 ### Development
+
+To download project dependencies, first run this command:
+
+```bash
+npm install
+```
 
 To start the project locally, run:
 
